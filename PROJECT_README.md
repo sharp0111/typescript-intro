@@ -1,0 +1,1 @@
+Typescript React Starter from [here](https://github.com/Microsoft/TypeScript-React-Starter#typescript-react-starter)
